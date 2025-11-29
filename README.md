@@ -1,6 +1,6 @@
 # Survival Island - Mini Game (C)
 
-Desenvolvido como trabalho acadêmico por Alvaro Vogas.
+Desenvolvido Alvaro Vogas.
 
 Este projeto implementa um mini-game em C com três camadas principais:
 1. Inventário (mochila) - versão com vetor e versão com lista encadeada.
